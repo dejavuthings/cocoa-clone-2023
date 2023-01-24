@@ -1,3 +1,3 @@
 #Cocoa Clone 2023 Update
 
-HTML & CSS are so much fun!
+HTML & CSS Awesome!
